@@ -2,7 +2,7 @@
 
 Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. Sempre fui muito ligada a tecnologia e amo participar de projetos que ajudem as minoriais. E prpetendo participar de mais projetos e compartilhar mais conteúdos com a comunidade.
 
-* :wedding: Atualmente estou trabalhando como estagiária front-end.
+* :wedding: Atualmente estou trabalhando como desenvolvedora front-end.
 
 #### **Nos meus momentos livres amô:**
 * jogar uns games (até participo de campeonatos :rage3:)
@@ -15,11 +15,13 @@ Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. S
 #### Me seguem nas minhas redes: 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/josyscript)](https://twitter.com/josyscript)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josyanetartarini)](https://www.linkedin.com/in/josyanetartarini)
+
 
 
 <!--
 **jtartarini/jtartarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josyanetartarini)](https://www.linkedin.com/in/josyanetartarini)
 
 Here are some ideas to get you started:
 
