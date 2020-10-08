@@ -1,6 +1,6 @@
 ### Oiy Amigos 👋
 
-Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. Sempre fui muito ligada a tecnologia e amo participar de projetos que ajudem as minoriais. E prpetendo participar de mais projetos e compartilhar mais conteúdos com a comunidade.
+Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. 
 
 * :wedding: Atualmente estou trabalhando como desenvolvedora front-end.
 
