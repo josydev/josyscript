@@ -1,16 +1,30 @@
-### Oiy Amigos 👋
+![image](https://res.cloudinary.com/jsantos/image/upload/v1602905467/josy_zpnela.png)
+ 
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyscript&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px"  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=josyscript&repo=projeto-dever&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
+
+<h1 align="center">Oiy Amigos</h1>
 
 Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. 
 
-* :wedding: Atualmente estou trabalhando como desenvolvedora front-end.
+ :wedding: Atualmente estou trabalhando como desenvolvedora front-end.
 
 #### **Nos meus momentos livres amô:**
-* :video_game: Jogar uns games 
-* :ok_woman: dançar
-* :books: ler alguns livros
-* :sound: ouvir música 
-* :video_camera: assistir filmes
-* :runner: tentando virar crossfiteira
+- :video_game: Jogar uns games 
+- :ok_woman: dançar
+- :books: ler alguns livros
+- :sound: ouvir música 
+- :video_camera: assistir filmes
+- :runner: tentando virar crossfiteira
+
 
 #### Me seguem nas minhas redes: 
 
