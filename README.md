@@ -10,8 +10,9 @@
 </table>
 </center>  
 
-
-<h1 align="center">Oiy Amigos</h1>
+<hr/>
+<h3 align="center">Oiy Amigos</h3>
+<hr/>
 
 Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. 
 
