@@ -5,7 +5,6 @@
 <table>
     <tr>
         <td><img width="400px"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyscript&hide=html&layout=compact&theme=buefy" /></td>
-       
     </tr>   
 </table>
 </center>  
