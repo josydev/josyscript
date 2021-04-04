@@ -1,14 +1,6 @@
 ![image](https://res.cloudinary.com/jsantos/image/upload/v1602905467/josy_zpnela.png)
  
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyscript&hide=html&layout=compact&theme=buefy" /></td>
-    </tr>   
-</table>
-</center>  
-
 <hr/>
 <h3 align="center">Oiy Amigos</h3>
 <hr/>
