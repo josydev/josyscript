@@ -7,7 +7,7 @@
 
 Meu nome é **josyane**, para os conhecidos **josy** e para os amigos **jô**. 
 
- :wedding: Atualmente estou trabalhando como desenvolvedora front-end.
+ :wedding: Atualmente estou trabalhando como desenvolvedora front-end Junior.
 
 #### **Nos meus momentos livres amô:**
 - :video_game: Jogar uns games 
