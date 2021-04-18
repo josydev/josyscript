@@ -2,7 +2,7 @@
  
 
 <hr/>
-<h3>😄 Hello Everyone!</h3>
+<h3 align="center">😄 Hello Everyone!</h3>
 <hr/>
 
 :wedding: I'm currently working as Frontend Developer Junior.<br>
