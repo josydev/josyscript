@@ -30,7 +30,7 @@ I want share with you guys, my studies, my challenges and experiencies.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josyscript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div>
 
-#### ⚡ Minhas redes sociais 
+#### ⚡ My social medias  
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-28a0d5?style=for-the-badge&logo=twitter&logoColor=fff&link=https://twitter.com/josyscript)](https://twitter.com/josyscript) [![Linkedin Badge](https://img.shields.io/badge/linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=fff&link=http://linkedin.com/in/josydevs/)](http://linkedin.com/in/josydevs/)
 
