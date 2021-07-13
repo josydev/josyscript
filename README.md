@@ -33,6 +33,7 @@ I want share with you guys, my studies, my challenges and experiencies.
 #### ⚡ My social medias  
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-28a0d5?style=for-the-badge&logo=twitter&logoColor=fff&link=https://twitter.com/josyscript)](https://twitter.com/josyscript)
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josyscript/)
 
 
 
