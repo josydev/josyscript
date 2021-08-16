@@ -7,9 +7,8 @@
 
 :wedding: I'm currently working as Frontend Developer Junior.<br>
 🎓 I'm graduate at Information System.<br>
-🌱 I’m currently learning Nextjs and Nestjs.<br>
+🌱 I’m currently learning Nextjs, Nodejs, React Native and Typescript.<br>
 
-I want share with you guys, my studies, my challenges and experiencies.
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/angularjs-b72834?style=for-the-badge&logo=angularjs&logoColor=fff) ![image](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)
 
@@ -33,7 +32,9 @@ I want share with you guys, my studies, my challenges and experiencies.
 #### ⚡ My social medias  
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-28a0d5?style=for-the-badge&logo=twitter&logoColor=fff&link=https://twitter.com/josyscript)](https://twitter.com/josyscript)
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josyscript/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josyscript/)
+[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josyst/)
+ 
 
 
 
