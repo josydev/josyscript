@@ -1,13 +1,8 @@
-![image](https://res.cloudinary.com/jsantos/image/upload/v1602905467/josy_zpnela.png)
- 
+#### Hello, I'm Josy! 
 
-<hr/>
-<h3 align="center">😄 Hello Everyone!</h3>
-<hr/>
-
-:wedding: I'm currently working as Frontend Developer Junior.<br>
+:wedding: I'm currently working as Frontend Developer.<br>
 🎓 I'm graduate at Information System.<br>
-🌱 I’m currently learning Nextjs, Nodejs, React Native and Typescript.<br>
+🌱 I’m currently learning Nodejs, Graphql, React Native and Typescript.<br>
 
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/angularjs-b72834?style=for-the-badge&logo=angularjs&logoColor=fff) ![image](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=333)
@@ -33,7 +28,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/twitter-28a0d5?style=for-the-badge&logo=twitter&logoColor=fff&link=https://twitter.com/josyscript)](https://twitter.com/josyscript)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josyscript/)
-[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josyst/)
+[![Instagram](https://img.shields.io/badge/Instagram-e02c6f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josyscripts/)
  
 
 
