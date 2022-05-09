@@ -9,7 +9,7 @@
     - Nextjs/Reactjs
     - Gosto bastante de connversar e jogar, mas isso não quer dizer que eu seja boa kk.
 
- 
+ <!--
 
 <p align="center">
    <a href="https://www.linkedin.com/in/josyscript/">
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-
+-->
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
