@@ -9,7 +9,7 @@
     - Nextjs/Reactjs
     - Gosto bastante de connversar e jogar, mas isso não quer dizer que eu seja boa kk.
 
- <!--
+
 
 <p align="center">
    <a href="https://www.linkedin.com/in/josyscript/">
@@ -18,12 +18,12 @@
   <a href="http://twitter.com/josyscript">
     <img src="https://img.shields.io/twitter/follow/josyscript?label=Twitter&logo=twitter&style=for-the-badge&logoColor=white&labelColor=f21d41&color=fedcba" />
   </a>
-   <a href="https://www.instagram.com/josyscripts/">
+<!--    <a href="https://www.instagram.com/josyscripts/">
     <img src="https://img.shields.io/badge/Instagram-230f2b?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
--->
+
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
