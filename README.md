@@ -15,10 +15,11 @@
    <a href="https://www.linkedin.com/in/josyscript/">
     <img src="https://img.shields.io/badge/LinkedIn-230f2b?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <!--  
   <a href="http://twitter.com/josyscript">
     <img src="https://img.shields.io/twitter/follow/josyscript?label=Twitter&logo=twitter&style=for-the-badge&logoColor=white&labelColor=f21d41&color=fedcba" />
   </a>
-<!--    <a href="https://www.instagram.com/josyscripts/">
+  <a href="https://www.instagram.com/josyscripts/">
     <img src="https://img.shields.io/badge/Instagram-230f2b?style=for-the-badge&logo=instagram&logoColor=white" />
   </a> -->
 </p>
