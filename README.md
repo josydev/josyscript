@@ -1,12 +1,12 @@
 
 <img align="left" height="200" src="https://64.media.tumblr.com/6460796cd1492067ff7e3b406ac02884/d7f60dab526b66fc-72/s250x400/85032443665333701d6deba99c0b2ef05291ac41.gifv"/>
     
-    Desculpe te decepcionar, mas por enquanto você não vai encontrar nenhum projeto por aqui. 
+    Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
     Ah, apropósito me chamo josyane, mas todo mundo me chama de josy.
     
     - Front-End Developer
+    - Atualmente trabalho com: Reactjs, Typescript, Graphql, Strapi e MicroFrontends
     - Graduada em Sistemas de Informação. 
-    - Nextjs/Reactjs
     - Gosto bastante de connversar e jogar, mas isso não quer dizer que eu seja boa kk.
 
 
