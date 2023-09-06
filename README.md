@@ -1,7 +1,9 @@
 
-<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/40829415-fbd8-4b82-a430-a455f6ef9b27"/>
-<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/e1b22302-dceb-4ce2-b818-dc6af40389c2"/>
 <img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/f597e392-55bc-452e-81b7-3dc596fb7165"/>
+<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/e1b22302-dceb-4ce2-b818-dc6af40389c2"/>
+
+
+
 
 
 <p align="left">
@@ -16,11 +18,6 @@
 </a>
 </p>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <p>
     Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
     Ah, apropósito me chamo josyane, mas todo mundo me chama de josy.
@@ -37,6 +34,8 @@
 
 
 <!--
+
+<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/40829415-fbd8-4b82-a430-a455f6ef9b27"/>
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
