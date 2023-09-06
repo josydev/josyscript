@@ -23,7 +23,6 @@
 <br />
 <br />
 <br />
-<br />
 <p>
     Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
     Ah, apropósito me chamo josyane, mas todo mundo me chama de josy.
