@@ -5,12 +5,22 @@
 
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/josyscript/">
+    <img src="https://img.shields.io/badge/LinkedIn-dfd3c2?style=for-the-badge&logo=linkedin&logoColor=c69468" />
+  </a>
+  <a href="mailto: josydevs@gmail.com">
+    <img src="https://img.shields.io/badge/email-dfd3c2?style=for-the-badge&logo=gmail&logoColor=c69468" />
+  </a>
  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjosyscript">
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyscript&label=impostores&labelColor=%23dfcfb5&countColor=%23dfcfb5" />
 </a>
 </p>
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <p>
     Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
     Ah, apropósito me chamo josyane, mas todo mundo me chama de josy.
@@ -23,14 +33,7 @@
 
 
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/josyscript/">
-    <img src="https://img.shields.io/badge/LinkedIn-dfd3c2?style=for-the-badge&logo=linkedin&logoColor=c69468" />
-  </a>
-  <a href="mailto: josydevs@gmail.com">
-    <img src="https://img.shields.io/badge/email-dfd3c2?style=for-the-badge&logo=gmail&logoColor=c69468" />
-  </a>
-</p>
+
 
 
 <!--
