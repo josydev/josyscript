@@ -1,27 +1,35 @@
 
-<img align="left" height="200" src="https://64.media.tumblr.com/6460796cd1492067ff7e3b406ac02884/d7f60dab526b66fc-72/s250x400/85032443665333701d6deba99c0b2ef05291ac41.gifv"/>
-    
+<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/40829415-fbd8-4b82-a430-a455f6ef9b27"/>
+<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/e1b22302-dceb-4ce2-b818-dc6af40389c2"/>
+<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/f597e392-55bc-452e-81b7-3dc596fb7165"/>
+
+
+<p align="left">
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjosyscript">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyscript&label=impostores&labelColor=%23dfcfb5&countColor=%23dfcfb5" />
+</a>
+</p>
+
+
+<p>
     Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
     Ah, apropósito me chamo josyane, mas todo mundo me chama de josy.
     
-    - Front-End Developer
+    - Desenvolvedora Frontend com um pézinho no fullstack
     - Atualmente trabalho com: Reactjs, Typescript, Graphql, Strapi e MicroFrontends
     - Graduada em Sistemas de Informação. 
     - Gosto bastante de connversar e jogar, mas isso não quer dizer que eu seja boa kk.
+</p>
 
 
 
-<p align="center">
+<p align="left">
    <a href="https://www.linkedin.com/in/josyscript/">
-    <img src="https://img.shields.io/badge/LinkedIn-230f2b?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-dfd3c2?style=for-the-badge&logo=linkedin&logoColor=c69468" />
   </a>
-  <!--  
-  <a href="http://twitter.com/josyscript">
-    <img src="https://img.shields.io/twitter/follow/josyscript?label=Twitter&logo=twitter&style=for-the-badge&logoColor=white&labelColor=f21d41&color=fedcba" />
+  <a href="mailto: josydevs@gmail.com">
+    <img src="https://img.shields.io/badge/email-dfd3c2?style=for-the-badge&logo=gmail&logoColor=c69468" />
   </a>
-  <a href="https://www.instagram.com/josyscripts/">
-    <img src="https://img.shields.io/badge/Instagram-230f2b?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
 </p>
 
 
