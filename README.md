@@ -19,9 +19,7 @@
 </p>
 <br />
 <br />
-<br />
-<br />
-<br />
+<br /> 
 <br />
 <p>
     Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
