@@ -1,9 +1,8 @@
-
 <img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/f597e392-55bc-452e-81b7-3dc596fb7165"/>
-<img align="left" height="200" src="https://github.com/josyscript/josyscript/assets/32505778/e1b22302-dceb-4ce2-b818-dc6af40389c2"/>
 
-
-
+```
+- Desenvolvendo bugs por ai
+```
 
 
 <p align="left">
@@ -17,23 +16,6 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyscript&label=impostores&labelColor=%23dfcfb5&countColor=%23dfcfb5" />
 </a>
 </p>
-<br />
-<br />
-<br /> 
-<br />
-<br />
-<br />
-
-<p>
-    Desculpe te decepcionar, mas por enquanto você só vai encontrar projetos antigos por aqui. 
-    Ah, apropósito me chamo josyane, mas todo mundo me chama de josy.
-    
-    - Desenvolvedora Frontend com um pézinho no fullstack
-    - Atualmente trabalho com: Reactjs, Typescript, Graphql, Strapi e MicroFrontends
-    - Graduada em Sistemas de Informação. 
-    - Gosto bastante de connversar e jogar, mas isso não quer dizer que eu seja boa kk.
-</p>
-
 
 
 
